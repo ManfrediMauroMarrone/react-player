@@ -30,15 +30,6 @@ function chillhop() {
             audio: "https://mp3.chillhop.com/serve.php/?mp3=11238"
         },
         {
-            name: "Harbor",
-            artist: "Stan Forebee, The Field Tapes, azula, Francis",
-            cover: "https://chillhop.com/wp-content/uploads/2020/11/8a0c857ddad531279d0757f5362380a6837b1b69-1024x1024.jpg",
-            id: uuidv4(),
-            active: false,
-            color: ["#DBE8DF", "#B8C08F"],
-            audio: "https://mp3.chillhop.com/serve.php/?mp3=11238"
-        },
-        {
             name: "Peaches",
             artist: "Philanthrope, The Field Tapes",
             cover: "https://chillhop.com/wp-content/uploads/2020/11/8a0c857ddad531279d0757f5362380a6837b1b69-1024x1024.jpg",

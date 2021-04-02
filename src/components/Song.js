@@ -11,4 +11,4 @@ const Song = ({ currentSong }) => {
     )
 }
 
-export default Song
+export default Song;
